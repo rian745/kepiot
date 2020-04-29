@@ -1,15 +1,16 @@
-![CDNJS](https://img.shields.io/badge/python-2.7-blue) ![CDNJS](https://img.shields.io/badge/coded-Ariya%20Saputra-orange)
-## Facebook Tools v1.0
-### Install
-```
-$ pkg update && pkg upgrade
-$ pkg install python2
-$ pip2 install prompt_toolkit
-$ pip2 install requests bs4 cookiejar mechanize
-$ pkg install git
-$ git clone https://github.com/Ariya-Coder/dk-fb
-$ cd dk-fb
-$ python2 dark.py
-```
-<img src="https://github.com/Ariya-Coder/Image/blob/master/PicsArt_03-08-06.43.06.jpg" width="100%" alt="screenshot">
-<br>
+# DARK TOOLS
+DARK TOOLS ADALAH TOOLS INSTALLER RECODE DARK FB DARI ORANG ORANG INDONESIA
+
+[ HUT RI 74🇲🇨🇲🇨🇲🇨 ]
+# ISTALLATION
+apt update && apt upgrade;
+pkg install python python2 git;
+git clone https://github.com/R3DB0T/darktools;
+cd darktools;
+python2 dark*
+
+# ALL PASSWORD IN THIS TOOL
+<br>1,2,3. EXISTS(ADA DIDALAM)</br>
+14. yogawira
+
+Check <a href="http://redbotermux.blogspot.com">my blog</a>
